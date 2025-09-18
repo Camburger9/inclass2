@@ -1,0 +1,7 @@
+Q1: Because you dont need root privledges to access the plain text file or to print them in the terminal
+Q2: Reads the plain text files and prints its contents into the terminal
+Q3: So the user can differentiate the output from before we read the file and the actual file's contents
+Q4: translates the data in the file from its location to its string value
+Q5: because when we set the function to display plain text
+Q6: by setting up a case for all file types required. we only need plain text and jpg so coding for just 2 is enough here.
+Q7: setting up cases for everything we want to do in a server. having a case for html and queries is important but we dont necessarily need to be able to display .docx files for example 
